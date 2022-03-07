@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NaderKamelAponar
-- 👀 I’m interested in Coding  ...
-- 🌱 I’m currently learning New Stuff ...
+- 👋 The Peace I’m @NaderKamelAponar
+- 👀 I love to Code
+
 - <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫inbox me @ nader.kamel.the.programmer@gmail.com
 
